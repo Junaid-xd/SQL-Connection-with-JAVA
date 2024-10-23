@@ -6,7 +6,7 @@ public class Main {
 
     public static final String DB_URL = "jdbc:mysql://localhost:3306/sakila";
     public static final String USER = "root";
-    public static final String PASSWORD = "05xJunaid";
+    public static final String PASSWORD = "passsword";
 
 
     public static void main(String[] args) {
